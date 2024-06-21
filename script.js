@@ -1,5 +1,5 @@
 // AUTOMATION
-let headlines = require("./finalData.js");
+// let headlines = require("./finalData.js");
   
 
 for(let i=0 ; i<3 ; i++){
